@@ -15,7 +15,7 @@ A lightweight Chrome extension that adds dark mode functionality to any website.
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/darkmode_extension.git
+git clone https://github.com/viviannnl/darkmode_extension.git
 ```
 
 2. Open Chrome and navigate to `chrome://extensions/`
